@@ -1,1 +1,1 @@
-{"rewrites":[{"source":"/(.*)","destination":"/index.html"}]}
+{"rewrites":[{"source":"/work/smiley-co","destination":"/work-smiley-co.html"},{"source":"/work/circular","destination":"/work-circular.html"},{"source":"/work/ode","destination":"/work-ode.html"},{"source":"/work/deadpan-supply","destination":"/work-deadpan-supply.html"},{"source":"/(.*)","destination":"/index.html"}]}
